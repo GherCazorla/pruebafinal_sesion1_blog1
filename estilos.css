@@ -1,0 +1,83 @@
+body{
+background-color:  #ff0000 
+}
+.container{
+	background-color:#ffdab9
+}
+.col-lg-5{
+	padding: 20px 100px;
+}
+.title{
+	color: green;
+}
+
+.btn{
+	background-color: #4682b4
+}
+@media (min-width: 576px){
+.col-lg-5{
+	padding: 20px 100px;
+}
+.title{
+	color: green;
+}
+.col-lg-12{
+	background-color: #ff0000
+	padding-left:6px;
+}
+.btn{
+	background-color: #4682b4
+}
+}
+@media (min-width: 768px){
+	.col-lg-5{
+	padding: 20px 100px;
+}
+.title{
+	color: green;
+}
+.col-lg-12{
+	background-color: #ff0000
+	padding-left: 6px;
+}
+.btn{
+	background-color: #4682b4
+}
+}
+@media (min-width: 992px){
+	.col-lg-5{
+	padding: 20px 100px;
+}
+.title{
+	color: green;
+}
+.col-lg-12{
+	background-color: #ff0000
+	padding-left:6px;
+}
+.btn{
+	background-color: #4682b4
+}
+}
+@media (min-width: 1200px){
+.col-lg-5{
+	padding: 20px 100px;
+}
+.title{
+	color: black;
+}
+.col-lg-12{
+	background-color: #ff0000
+	padding-left:6px;
+}
+.btn{
+	background-color: #4682b4
+}
+}
+.footer{
+	color:white;
+}
+.wp-text-wrap{
+	width: 50%;
+
+}
